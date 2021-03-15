@@ -1,0 +1,17 @@
+Package: com.wizardoffoss.alwaysresponding
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: TheWizardOfFoss
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.wizardoffoss.alwaysresponding_1.0.0_iphoneos-arm.deb
+Size: 2810
+MD5sum: 141228326562a40505b68688177dd23b
+SHA1: 3c6d0062f8e409d117b6c075621b481269f85236
+SHA256: af05b7ece460f94fe2953d0942e4acfff66f6891fbaf9086e401bfdbb5be7bc1
+Section: Tweaks
+Description: Always show the keyboard when selecting a conversation in Messages app.
+Author: TheWizardOfFoss
+Depiction: https://thewizardoffoss.github.io/depictions/?p=com.thewizardoffoss.alwaysresponding
+Name: AlwaysResponding
+
